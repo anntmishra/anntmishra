@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there! 👋 I'm Anant, an aspiring web developer currently learning the ropes of front-end and back-end technologies. I have some experience with Java and Python, having made a couple of projects in these languages.<br><br>Fun Fact: I fancy myself a bit of a jokester! 🤪 Gotta keep things fun and lighthearted, right?<br><br>Always eager to learn and take on new challenges in the world of web development.  Let's build something awesome!
+# 🐥 About Me:
+Hi there! 👋 I'm Anant, an aspiring web developer currently learning the ropes of front-end and back-end technologies. I have some experience with Java and Python, having made a couple of projects in these languages.<br><br><br><br>Always eager to learn and take on new challenges in the world of web development.  Let's build something awesome!
 
 
 ## 🌐 Socials:
