@@ -1,5 +1,7 @@
 # 🐥 About Me:
-Hi there! 👋 I'm Anant, an aspiring web developer currently learning the ropes of front-end and back-end technologies. I have some experience with Java and Python, having made a couple of projects in these languages.<br><br><br><br>Always eager to learn and take on new challenges in the world of web development.  Let's build something awesome!
+Hi there! 👋 I’m Anant, an aspiring web developer currently honing my skills in front-end and back-end technologies. I have experience with Java, Python, and JavaScript, and I’ve recently completed a project using Node.js, HTML, CSS, and the Fetch API. Additionally, I’m learning C++ and diving deep into data structures and algorithms (DSA).
+
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=860328335062680480" height="549" width="600" frameborder="0" scrolling="no" ></iframe>
 
 
 ## 🌐 Socials:
