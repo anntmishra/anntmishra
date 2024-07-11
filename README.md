@@ -1,7 +1,13 @@
+
+
+![My Book of Quirks Reprogram](https://github.com/user-attachments/assets/17e3ec61-7697-47b5-8420-bc335265f798)
+
+
+
 ![image](https://github.com/user-attachments/assets/cc1113af-c86c-4d45-9f58-1581657e7e38)# 🐥 About Me:
 Hi there! 👋 I’m Anant, an aspiring web developer currently honing my skills in front-end and back-end technologies. I have experience with Java, Python, and JavaScript, and I’ve recently completed a project using Node.js, HTML, CSS, and the Fetch API. Additionally, I’m learning C++ and diving deep into data structures and algorithms (DSA).
 
-<div style="background-image: url('[wattpad.com](https://pin.it/7JaXzZ7Gx)'); background-size: cover; background-repeat: no-repeat; height: 300px;">
+
 
 
 ## 🌐 Socials:
