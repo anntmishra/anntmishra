@@ -1,6 +1,6 @@
 
 
-![My Book of Quirks Reprogram](https://github.com/user-attachments/assets/17e3ec61-7697-47b5-8420-bc335265f798)
+
 
 
 
