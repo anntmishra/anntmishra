@@ -1,5 +1,4 @@
-
-(https://www.reddit.com/r/gifs/comments/1fenfw6/you_look_lonely_i_can_fix_that_blade_runner_2049/)
+https://pin.it/2x5HZrgd0
 
 ## About Me
 
