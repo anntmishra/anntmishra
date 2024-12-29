@@ -1,4 +1,4 @@
-[https://pin.it/2x5HZrgd0](https://i.pinimg.com/originals/2e/db/a4/2edba48745736beae36a6b90a77df47e.gif)
+(https://i.pinimg.com/originals/2e/db/a4/2edba48745736beae36a6b90a77df47e.gif)
 
 ## About Me
 
