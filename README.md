@@ -2,8 +2,23 @@
 
 
 
-# About Me:
- Hi there! I'm Anant Mishra , a Computer Science Engineering student with a deep passion for software development and a keen interest in full-stack development.<br><br>🔧 Technologies & Tools<br>Languages: C++, JavaScript, Rust (learning), Python<br>Full-Stack Development: MERN (MongoDB, Express.js, React, Node.js)<br>Frontend Development: HTML, Tailwind CSS<br>Cloud Services: AWS (learning), Firebase<br>Other Tools: Git, Docker, Linux<br>💡 What I Work On<br>Full-Stack Projects: Building dynamic and responsive web applications using the MERN stack.<br>Frontend Projects: Crafting elegant and efficient user interfaces with HTML and Tailwind CSS.<br>Data Structures & Algorithms: Strong foundation in C++ with a focus on solving complex problems and optimizing code.<br>Learning Rust: Exploring systems programming with Rust and understanding its unique features.<br>Cloud Services: Gaining hands-on experience with AWS and Firebase to build scalable and efficient applications.<br>🌱 Learning & Growth<br>Current Learning: Deepening my knowledge of AWS services and Rust programming.<br>Future Goals: Dive into iOS development and learn Swift. Contribute to open-source projects, expand my skills in DevOps, and explore advanced concepts in AI and Machine Learning.
+👋 Hi there! I'm Anant Mishra, a Computer Science Engineering student with a passion for software and full-stack development.
+
+🔧 Technologies & Tools
+Languages: C++, JavaScript, Rust (learning), Python
+Full-Stack Development: MERN (MongoDB, Express.js, React, Node.js)
+Frontend Development: HTML, Tailwind CSS
+Cloud Services: AWS (learning), Firebase
+Other Tools: Git, Docker, Linux
+💡 What I Work On
+Full-Stack Projects: Building web applications with the MERN stack.
+Frontend Projects: Creating user interfaces with HTML and Tailwind CSS.
+Data Structures & Algorithms: Solving problems with C++.
+Learning Rust: Exploring systems programming.
+Cloud Services: Using AWS and Firebase for scalable applications.
+🌱 Learning & Growth
+Current Learning: AWS services and Rust.
+Future Goals: iOS development with Swift, open-source contributions, and advanced AI/ML.
 
 
 ## 🌐 Socials:
