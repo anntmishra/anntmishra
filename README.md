@@ -1,5 +1,5 @@
 
-[https://i.pinimg.com/originals/95/7e/09/957e090370a378d3bdf38727909e5202.gif](https://www.reddit.com/r/gifs/comments/1fenfw6/you_look_lonely_i_can_fix_that_blade_runner_2049/)
+(https://www.reddit.com/r/gifs/comments/1fenfw6/you_look_lonely_i_can_fix_that_blade_runner_2049/)
 
 ## About Me
 
