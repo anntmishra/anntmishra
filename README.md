@@ -1,56 +1,28 @@
 [![image](https://github.com/user-attachments/assets/d03f0c60-b62e-4623-81e6-faff84052769)](https://pin.it/7fLq9GPNE)
 
 
+## About Me
 
- body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h2 {
-            color: #333;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        ul li {
-            margin-bottom: 10px;
-        }
-        .section-title {
-            margin-top: 20px;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-    <h2>About Me</h2>
-    <p>👋 Hi there! I'm Anant Mishra, a Computer Science Engineering student with a passion for software and full-stack development.</p>
-    
-    <p class="section-title">🔧 Technologies & Tools</p>
-    <ul>
-        <li><strong>Languages:</strong> C++, JavaScript, Rust (learning), Python</li>
-        <li><strong>Full-Stack Development:</strong> MERN (MongoDB, Express.js, React, Node.js)</li>
-        <li><strong>Frontend Development:</strong> HTML, Tailwind CSS</li>
-        <li><strong>Cloud Services:</strong> AWS (learning), Firebase</li>
-        <li><strong>Other Tools:</strong> Git, Docker, Linux</li>
-    </ul>
-    
-    <p class="section-title">💡 What I Work On</p>
-    <ul>
-        <li><strong>Full-Stack Projects:</strong> Building dynamic and responsive web applications using the MERN stack.</li>
-        <li><strong>Frontend Projects:</strong> Crafting elegant and efficient user interfaces with HTML and Tailwind CSS.</li>
-        <li><strong>Data Structures & Algorithms:</strong> Strong foundation in C++ with a focus on solving complex problems and optimizing code.</li>
-        <li><strong>Learning Rust:</strong> Exploring systems programming with Rust and understanding its unique features.</li>
-        <li><strong>Cloud Services:</strong> Gaining hands-on experience with AWS and Firebase to build scalable and efficient applications.</li>
-    </ul>
-    
-    <p class="section-title">🌱 Learning & Growth</p>
-    <ul>
-        <li><strong>Current Learning:</strong> Deepening my knowledge of AWS services and Rust programming.</li>
-        <li><strong>Future Goals:</strong> Dive into iOS development and learn Swift. Contribute to open-source projects, expand my skills in DevOps, and explore advanced concepts in AI and Machine Learning.</li>
-    </ul>
-</body>
+👋 Hi there! I'm Anant Mishra, a Computer Science Engineering student with a passion for software and full-stack development.
+
+### 🔧 Technologies & Tools
+- **Languages:** C++, JavaScript, Rust (learning), Python
+- **Full-Stack Development:** MERN (MongoDB, Express.js, React, Node.js)
+- **Frontend Development:** HTML, Tailwind CSS
+- **Cloud Services:** AWS (learning), Firebase
+- **Other Tools:** Git, Docker, Linux
+
+### 💡 What I Work On
+- **Full-Stack Projects:** Building web applications with the MERN stack.
+- **Frontend Projects:** Creating user interfaces with HTML and Tailwind CSS.
+- **Data Structures & Algorithms:** Solving problems with C++.
+- **Learning Rust:** Exploring systems programming.
+- **Cloud Services:** Using AWS and Firebase for scalable applications.
+
+### 🌱 Learning & Growth
+- **Current Learning:** AWS services and Rust.
+- **Future Goals:** iOS development with Swift, open-source contributions, and advanced AI/ML.
+
 
 
 ## 🌐 Socials:
