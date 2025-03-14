@@ -1,27 +1,32 @@
 ![Coding GIF](https://i.pinimg.com/originals/2e/db/a4/2edba48745736beae36a6b90a77df47e.gif)
 
-## About Me
+# Anant Mishra
+## Software Engineer
 
-👋 Hi there! I'm Anant Mishra, a Computer Science Engineering student with a passion for software and full-stack development.
+### About Me
+Experienced software engineer specializing in building scalable applications with modern technologies. Focused on backend development, cloud architecture, and efficient system design.
 
-### 🔧 Technologies & Tools
-- **Languages:** C++, JavaScript, Rust (learning), Python
-- **Full-Stack Development:** MERN (MongoDB, Express.js, React, Node.js)
-- **Frontend Development:** HTML, Tailwind CSS
-- **Cloud Services:** AWS (learning), Firebase
-- **Other Tools:** Git, Docker, Linux
+### Technical Expertise
+- **Programming Languages:** C++, JavaScript, Python, Rust
+- **Web Development:** MERN Stack (MongoDB, Express.js, React, Node.js)
+- **Backend Technologies:** Node.js, Express, GraphQL, RESTful APIs, PostgreSQL, Redis
+- **Cloud Infrastructure:** AWS (EC2, S3, Lambda), Firebase, CI/CD pipelines
+- **Development Tools:** Git, Docker, Linux, Kubernetes
 
-### 💡 What I Work On
-- **Full-Stack Projects:** Building web applications with the MERN stack.
-- **Frontend Projects:** Creating user interfaces with HTML and Tailwind CSS.
-- **Data Structures & Algorithms:** Solving problems with C++.
-- **Learning Rust:** Exploring systems programming.
-- **Cloud Services:** Using AWS and Firebase for scalable applications.
+### Professional Focus
+- Architecting scalable web applications with containerized microservices
+- Designing efficient database schemas and optimizing query performance
+- Implementing secure authentication systems and API integrations
+- Developing systems-level applications with Rust for memory safety and performance
+- Deploying and managing cloud-native applications across AWS and Firebase
 
-### 🌱 Learning & Growth
-- **Current Learning:** AWS services and Rust.
-- **Future Goals:** iOS development with Swift, open-source contributions, and advanced AI/ML.
+### Professional Development
+- **Current:** Advanced AWS architecture certification, Rust for performance-critical systems
+- **Upcoming:** DevOps expertise (CI/CD automation, Infrastructure as Code), advanced cloud architecture patterns, contributing to open-source infrastructure projects, exploring AI/ML integration in web applications
 
+---
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=anantmishra&show_icons=true&theme=dark)](https://github.com/anantmishra)
 
 
 ## 🌐 Socials:
