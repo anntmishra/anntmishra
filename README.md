@@ -3,26 +3,27 @@
 # Anant Mishra
 ## Software Engineer
 
-### About Me
+# About Me
+
 Experienced software engineer specializing in building scalable applications with modern technologies. Focused on backend development, cloud architecture, and efficient system design.
 
-Technical Expertise
-	•	Programming Languages: C++, JavaScript, Java
-	•	Web Development: MERN Stack (MongoDB, Express.js, React, Node.js)
-	•	Backend Technologies: Node.js, Express, GraphQL, RESTful APIs, PostgreSQL, Redis
-	•	Cloud Infrastructure: AWS (EC2, S3, Lambda), Firebase, CI/CD pipelines
-	•	Development Tools: Git, Docker, Linux, Kubernetes
+## Technical Expertise
+- **Programming Languages:** C++, JavaScript, Java  
+- **Web Development:** MERN Stack (MongoDB, Express.js, React, Node.js)  
+- **Backend Technologies:** Node.js, Express, GraphQL, RESTful APIs, PostgreSQL, Redis  
+- **Cloud Infrastructure:** AWS (EC2, S3, Lambda), Firebase, CI/CD pipelines  
+- **Development Tools:** Git, Docker, Linux, Kubernetes  
 
-Professional Focus
-	•	Architecting scalable web applications with containerized microservices
-	•	Designing efficient database schemas and optimizing query performance
-	•	Implementing secure authentication systems and API integrations
-	•	Deploying and managing cloud-native applications across AWS and Firebase
-	•	Learning cloud infrastructure management and mastering DevOps practices
+## Professional Focus
+- Architecting scalable web applications with containerized microservices  
+- Designing efficient database schemas and optimizing query performance  
+- Implementing secure authentication systems and API integrations  
+- Deploying and managing cloud-native applications across AWS and Firebase  
+- Learning cloud infrastructure management and mastering DevOps practices  
 
-Professional Development
-	•	Current: Advanced AWS architecture certification, learning DevOps fundamentals (CI/CD automation, Infrastructure as Code)
-	•	Upcoming: Deepening expertise in DevOps workflows, advanced cloud architecture patterns, contributing to open-source infrastructure projects, exploring AI/ML integration in web applications
+## Professional Development
+- **Current:** Advanced AWS architecture certification, learning DevOps fundamentals (CI/CD automation, Infrastructure as Code)  
+- **Upcoming:** Deepening expertise in DevOps workflows, advanced cloud architecture patterns, contributing to open-source infrastructure projects, exploring AI/ML integration in web applications  
 
 ---
 
