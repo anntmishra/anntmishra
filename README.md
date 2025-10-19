@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/18/6b/94/186b943fad4a9b79f5e85f05a1b7a232.gif" width="100%" height="300px" style="object-fit: cover;"/>
+<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" width="100%" height="300px" style="object-fit: cover;"/>
 
 # Anant Mishra
 
