@@ -38,4 +38,5 @@ Building systems that don’t suck. Strong bias toward performance, scale, and d
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anntmishra&icon=3&color=4)](https://visitcount.itsvg.in)
+[![Anant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anntmishra&theme=merko)](https://github.com/anntmishra/github-readme-activity-graph)
 
