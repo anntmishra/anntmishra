@@ -31,24 +31,9 @@
 
 ## About
 
-```typescript
-const anant = {
-  location: "India 🇮🇳",
-  role: "Software Engineer",
-  focus: [
-    "Scalable Systems",
-    "Cloud Architecture", 
-    "Performance Optimization"
-  ],
-  currentlyLearning: [
-    "System Design",
-    "Distributed Systems",
-    "Rust"
-  ],
-  funFact: "I debug production issues faster than I debug my life choices",
-  motto: "Code is poetry, but production is heavy metal 🎸"
-};
-```
+Software Engineer specializing in **scalable systems**, **cloud architecture**, and **performance optimization**. Currently exploring system design patterns, distributed systems, and Rust. Based in India 🇮🇳.
+
+I focus on building robust, high-performance applications with clean architecture. From database optimization to cloud infrastructure, I believe in writing code that's maintainable, efficient, and built to last.
 
 <br/>
 
@@ -146,10 +131,10 @@ const anant = {
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=anntmishra&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=18181b&icon_color=71717a&text_color=3f3f46&hide_title=true&include_all_commits=true&count_private=true" height="165" alt="stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anntmishra&hide_border=true&background=ffffff&ring=18181b&fire=18181b&currStreakLabel=18181b&stroke=e4e4e7&currStreakNum=18181b&sideNums=18181b&sideLabels=71717a&dates=71717a" height="165" alt="streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anntmishra&show_icons=true&hide_border=true&bg_color=00000000&title_color=18181b&icon_color=18181b&text_color=3f3f46&hide_title=true&include_all_commits=true&count_private=true" height="165" alt="stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anntmishra&hide_border=true&background=00000000&ring=18181b&fire=18181b&currStreakLabel=18181b&stroke=d4d4d8&currStreakNum=18181b&sideNums=18181b&sideLabels=71717a&dates=71717a" height="165" alt="streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anntmishra&layout=compact&hide_border=true&bg_color=ffffff&title_color=18181b&text_color=3f3f46&hide_title=true&langs_count=6" alt="languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anntmishra&layout=compact&hide_border=true&bg_color=00000000&title_color=18181b&text_color=3f3f46&hide_title=true&langs_count=6" alt="languages"/>
 
 </div>
 
@@ -164,18 +149,18 @@ const anant = {
 </div>
 
 <details>
-<summary><b>� More Stats</b></summary>
+<summary><b>More Stats</b></summary>
 <br/>
 
 <div align="center">
 
 **Contribution Graph**
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anntmishra&bg_color=ffffff&color=18181b&line=71717a&point=18181b&area=true&hide_border=true)](https://github.com/anntmishra/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anntmishra&bg_color=00000000&color=18181b&line=18181b&point=18181b&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/anntmishra/github-readme-activity-graph)
 
 **Top Contributed Repositories**
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=anntmishra&limit=4&theme=flat&combine_all_yearly_contributions=true)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=anntmishra&limit=4&theme=flat&combine_all_yearly_contributions=true&hide_border=true)
 
 </div>
 
