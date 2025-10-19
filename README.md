@@ -1,38 +1,44 @@
 <!-- Banner / GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/4f/7e/bc/4f7ebc1f7e59b1d0da83f3dd0df8d80b.gif" width="80%" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/Ve43TyDQ3B4me7d22z/giphy.gif" alt="Space Coding GIF" width="80%" />
 </p>
 
-<h1 align="center">👋 Hey, I'm <a href="https://linkedin.com/in/anntmishra">Anant Mishra</a></h1>
-<h3 align="center">Software Engineer • System Builder • Cloud Enthusiast</h3>
+<h1 align="center">👋 Hey — I’m <a href="https://linkedin.com/in/anntmishra">Anant Mishra</a></h1>
+<h3 align="center">Software Engineer • Building Systems That Don’t Suck</h3>
 
-<p align="center">Building systems that don’t suck — with a strong bias toward performance, scale, and developer sanity.</p>
-
----
-
-### 🧠 Tech Focus
-> Scalable backends • Cloud-native architecture • DevOps automation • Database design
-
----
-
-### ⚙️ Tech Stack
-
-#### 💻 Core
-`TypeScript` • `JavaScript` • `C++` • `Go`
-
-#### 🧩 Web / Backend
-`Node.js` • `Express` • `GraphQL` • `REST` • `Vite` • `Next.js`
-
-#### 🗄️ Databases
-`Postgres` • `NeonDB` • `AWS RDS` • `MongoDB` • `Prisma`
-
-#### ☁️ Infra & DevOps
-`AWS` • `Docker` • `Linux` • `CI/CD` • `Cloudflare`
+<p align="center">
+  Strong bias toward *performance*, *scale*, and *developer sanity*.  
+  <br />
+  Cloud-native, infra-driven, backend obsessed.
+</p>
 
 ---
 
-### 🌐 Connect with Me
+### 🔭 Tech Focus  
+Scalable services • Database & infra design • DevOps automation
 
+---
+
+### 🛠️ What I Use
+
+**Languages:**  
+\`TypeScript\` • \`JavaScript\` • \`C++\` • \`Go\`
+
+**Web & Frontend:**  
+\`Vite\` • \`Next.js\`
+
+**Backend & API:**  
+\`Node.js\` • \`Express\` • \`GraphQL\` • \`REST\`
+
+**Databases & Storage:**  
+\`Postgres\` • \`NeonDB\` • \`AWS RDS\`
+
+**Infrastructure & DevOps:**  
+\`AWS\` • \`Docker\` • \`Linux\` • \`CI/CD\`
+
+---
+
+### 🌐 Connect With Me  
 <p align="center">
   <a href="mailto:anantmishra249@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/anntmishra"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
@@ -43,23 +49,21 @@
 
 ---
 
-### 🏆 GitHub Highlights
-
+### 🏆 GitHub Highlights  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anntmishra&theme=algolia&no-frame=true&margin-w=8" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anntmishra&theme=onedark&no-frame=true&margin-w=8" alt="Trophies" />
 </p>
 
-### 🔝 Top Contributed Repositories
+### 🔝 Top Contributed Repos  
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=anntmishra&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true" alt="Top Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=anntmishra&limit=5&theme=onedark&combine_all_yearly_contributions=true" alt="Top Repos" />
 </p>
 
 ---
 
-### 📈 Activity & Analytics
-
+### 📈 Activity  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anntmishra&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anntmishra&theme=darcula&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
@@ -74,7 +78,5 @@
 
 <details>
   <summary>🧩 Fun Fact</summary>
-  <p align="left">Every commit I make tries to remove at least one WTF per minute from the codebase.</p>
+  <p>Every commit I make tries to remove at least one “WTF” from the codebase.</p>
 </details>
-
----
