@@ -1,82 +1,57 @@
-<!-- Banner / GIF -->
+<!-- 🌌 Cosmic Dev Vibes Section -->
+
+<h1 align="center">🚀 Anant — Engineering the Future Across Galaxies 👨‍🚀</h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/Ve43TyDQ3B4me7d22z/giphy.gif" alt="Space Coding GIF" width="80%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Crafting+code+that+travels+beyond+Earth.;C%2B%2B+%7C+Rust+%7C+Node.js+%7C+React+%7C+AWS.;Pushing+limits+of+Dev+and+DSA." alt="Typing SVG" />
 </p>
 
-<h1 align="center">👋 Hey — I’m <a href="https://linkedin.com/in/anntmishra">Anant Mishra</a></h1>
-<h3 align="center">Software Engineer • Building Systems That Don’t Suck</h3>
-
 <p align="center">
-  Strong bias toward *performance*, *scale*, and *developer sanity*.  
-  <br />
-  Cloud-native, infra-driven, backend obsessed.
-</p>
-
----
-
-### 🔭 Tech Focus  
-Scalable services • Database & infra design • DevOps automation
-
----
-
-### 🛠️ What I Use
-
-**Languages:**  
-\`TypeScript\` • \`JavaScript\` • \`C++\` • \`Go\`
-
-**Web & Frontend:**  
-\`Vite\` • \`Next.js\`
-
-**Backend & API:**  
-\`Node.js\` • \`Express\` • \`GraphQL\` • \`REST\`
-
-**Databases & Storage:**  
-\`Postgres\` • \`NeonDB\` • \`AWS RDS\`
-
-**Infrastructure & DevOps:**  
-\`AWS\` • \`Docker\` • \`Linux\` • \`CI/CD\`
-
----
-
-### 🌐 Connect With Me  
-<p align="center">
-  <a href="mailto:anantmishra249@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/anntmishra"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/marlspliff"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
-  <a href="https://reddit.com/user/marlspliff"><img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" /></a>
-  <a href="https://youtube.com/@@marlspliff"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" /></a>
+  <img src="https://i.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="700" alt="space vibes"/>
 </p>
 
 ---
 
-### 🏆 GitHub Highlights  
+### 💻 Tech Stack
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+### 🌠 GitHub Galaxy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anntmishra&theme=onedark&no-frame=true&margin-w=8" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnantSir&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=AnantSir&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-### 🔝 Top Contributed Repos  
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=anntmishra&limit=5&theme=onedark&combine_all_yearly_contributions=true" alt="Top Repos" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnantSir&theme=react-dark&hide_border=true&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF" />
 </p>
 
 ---
 
-### 📈 Activity  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anntmishra&theme=darcula&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
+<h3 align="center">✨ “May your code be clean, your commits meaningful, and your bugs light-years away.” ✨</h3>
 
 <p align="center">
-  <img src="https://holopin.me/anntmishra" alt="@anntmishra Holopin Badges" />
+  <img src="https://i.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600" alt="spacecraft coding vibe"/>
 </p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=anntmishra&icon=3&color=4" alt="Profile Views" />
-</p>
-
----
-
-<details>
-  <summary>🧩 Fun Fact</summary>
-  <p>Every commit I make tries to remove at least one “WTF” from the codebase.</p>
-</details>
