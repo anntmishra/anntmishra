@@ -1,110 +1,116 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Anant%20Mishra&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20System%20Architect&descAlignY=51&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2&section=header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=45B7D1&center=true&vLines=true&width=435&lines=Full+Stack+Developer;System+Architecture+Enthusiast;Cloud+%26+DevOps+Engineer;Building+Scalable+Systems" alt="Typing SVG" />
+# Anant Mishra
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Coding GIF"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=1000&color=71717A&center=true&vCenter=true&width=435&lines=Software+Engineer;Building+scalable+systems;TypeScript+%7C+Go+%7C+Rust+%7C+C%2B%2B;Cloud+Architecture+%26+DevOps" alt="Typing SVG" />
 
-### 🚀 Performance Enthusiast | ☁️ Cloud Architect | 🎯 Problem Solver
+<br/>
 
-*Building systems that don't suck. Strong bias toward performance, scale, and developer sanity.*
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="600" alt="Coding"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anntmishra)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/marlspliff)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anantmishra249@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](#)
-[![Visitors](https://visitcount.itsvg.in/api?id=anntmishra&icon=3&color=4)](https://visitcount.itsvg.in)
+<br/>
+
+<p align="center">
+  <em>Building systems that don't suck.<br/>Strong bias toward performance, scale, and developer sanity.</em>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/anntmishra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/marlspliff"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="mailto:anantmishra249@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-18181B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2&section=header"/>
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+## About
 
 ```typescript
 const anant = {
-    location: "India 🇮🇳",
-    role: "Software Engineer",
-    focus: ["Scalable Systems", "Cloud Architecture", "Performance Optimization"],
-    currentlyLearning: ["System Design", "Distributed Systems", "Rust"],
-    funFact: "I debug production issues faster than I debug my life choices",
-    motto: "Code is poetry, but production is heavy metal 🎸"
+  location: "India 🇮🇳",
+  role: "Software Engineer",
+  focus: [
+    "Scalable Systems",
+    "Cloud Architecture", 
+    "Performance Optimization"
+  ],
+  currentlyLearning: [
+    "System Design",
+    "Distributed Systems",
+    "Rust"
+  ],
+  funFact: "I debug production issues faster than I debug my life choices",
+  motto: "Code is poetry, but production is heavy metal 🎸"
 };
 ```
 
----
+<br/>
 
-## 💼 Tech Arsenal
+## Tech Stack
 
 <div align="center">
 
-### Languages
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Languages**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Frontend & Frameworks
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
-### Backend & APIs
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+**Database**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
 
----
+<br/>
 
-## 🎯 What I Do
+## What I Do
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏗️ Architecture & Design
+**Architecture & Design**
 - Scalable microservices architecture
 - Database design & optimization
 - RESTful & GraphQL APIs
 - Event-driven systems
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ☁️ Cloud & Infrastructure
+**Cloud & Infrastructure**
 - AWS cloud solutions (EC2, RDS, Lambda)
 - Docker containerization
 - CI/CD pipelines
@@ -113,18 +119,18 @@ const anant = {
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ Performance & Scale
+**Performance & Scale**
 - Query optimization
 - Caching strategies (Redis)
 - Load balancing
 - System monitoring & observability
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛠️ Development Practices
+**Development Practices**
 - Clean code & SOLID principles
 - Test-driven development
 - Code reviews & mentoring
@@ -134,77 +140,62 @@ const anant = {
 </tr>
 </table>
 
----
+<br/>
 
-## 📊 GitHub Analytics
+## GitHub Stats
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=anntmishra&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=45B7D1&icon_color=4ECDC4&text_color=c9d1d9" height="170" alt="stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anntmishra&theme=tokyonight&hide_border=true&background=0d1117&ring=45B7D1&fire=FF6B6B&currStreakLabel=45B7D1" height="170" alt="streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anntmishra&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=18181b&icon_color=71717a&text_color=3f3f46&hide_title=true&include_all_commits=true&count_private=true" height="165" alt="stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anntmishra&hide_border=true&background=ffffff&ring=18181b&fire=18181b&currStreakLabel=18181b&stroke=e4e4e7&currStreakNum=18181b&sideNums=18181b&sideLabels=71717a&dates=71717a" height="165" alt="streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anntmishra&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=45B7D1&text_color=c9d1d9" alt="languages"/>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anntmishra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
-
-[![Holopin Badges](https://holopin.me/anntmishra)](https://holopin.io/@anntmishra)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anntmishra&layout=compact&hide_border=true&bg_color=ffffff&title_color=18181b&text_color=3f3f46&hide_title=true&langs_count=6" alt="languages"/>
 
 </div>
 
----
+<br/>
 
-## 📈 Contribution Graph
+## Achievements
 
 <div align="center">
 
-[![Anant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anntmishra&theme=tokyo-night&hide_border=true)](https://github.com/anntmishra/github-readme-activity-graph)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anntmishra&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4)
 
 </div>
 
----
-
-## 🔝 Top Contributed Repositories
+<details>
+<summary><b>� More Stats</b></summary>
+<br/>
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=anntmishra&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+**Contribution Graph**
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anntmishra&bg_color=ffffff&color=18181b&line=71717a&point=18181b&area=true&hide_border=true)](https://github.com/anntmishra/github-readme-activity-graph)
+
+**Top Contributed Repositories**
+
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=anntmishra&limit=4&theme=flat&combine_all_yearly_contributions=true)
 
 </div>
 
----
+</details>
 
-## 💡 Random Dev Quote
+<br/>
 
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-
-</div>
-
----
-
-## 🤝 Let's Connect
+## Connect
 
 <div align="center">
 
-Whether you want to discuss tech, collaborate on a project, or just say hi — I'm always open to connecting!
+<p>Whether you want to discuss tech, collaborate on a project, or just say hi — I'm always open to connecting!</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anntmishra)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/marlspliff)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anantm.27)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anantmishra249@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26405441)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@@marlspliff)
-
-### 📫 **Email:** anantmishra249@gmail.com
+<p align="center">
+  <a href="https://linkedin.com/in/anntmishra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/marlspliff"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://instagram.com/anantm.27"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:anantmishra249@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://stackoverflow.com/users/26405441"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
+</p>
 
 </div>
 
@@ -212,10 +203,10 @@ Whether you want to discuss tech, collaborate on a project, or just say hi — I
 
 <div align="center">
   
-### 💭 "*First, solve the problem. Then, write the code.*" — John Johnson
+<sub>Built with ❤️ by Anant Mishra</sub>
 
-**Thanks for stopping by!** 🚀
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2&section=footer"/>
 
 </div>
