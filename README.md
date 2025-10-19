@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="600" alt="Coding"/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <br/>
 
@@ -148,23 +148,25 @@ I focus on building robust, high-performance applications with clean architectur
 
 </div>
 
-<details>
-<summary><b>More Stats</b></summary>
 <br/>
+
+## Contribution Activity
 
 <div align="center">
 
-**Contribution Graph**
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anntmishra&bg_color=00000000&color=18181b&line=18181b&point=18181b&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/anntmishra/github-readme-activity-graph)
-
-**Top Contributed Repositories**
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=anntmishra&limit=4&theme=flat&combine_all_yearly_contributions=true&hide_border=true)
 
 </div>
 
-</details>
+<br/>
+
+## Top Contributed Repositories
+
+<div align="center">
+
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=anntmishra&limit=5&theme=flat&combine_all_yearly_contributions=true&hide_border=true)
+
+</div>
 
 <br/>
 
