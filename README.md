@@ -32,7 +32,7 @@ Building systems that don’t suck. Strong bias toward performance, scale, and d
 ![](https://github-profile-trophy.vercel.app/?username=anntmishra&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anntmishra&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=anntmishra&limit=5&theme=marko&combine_all_yearly_contributions=true)
 
 ---
 
