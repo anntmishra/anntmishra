@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2&section=header"/>
+<img src="https://i.pinimg.com/originals/18/6b/94/186b943fad4a9b79f5e85f05a1b7a232.gif" width="100%" height="300px" style="object-fit: cover;"/>
 
 # Anant Mishra
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=1000&color=71717A&center=true&vCenter=true&width=435&lines=Software+Engineer;Building+scalable+systems;TypeScript+%7C+Go+%7C+Rust+%7C+C%2B%2B;Cloud+Architecture+%26+DevOps" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Building+scalable+systems;TypeScript+%7C+Go+%7C+Rust+%7C+C%2B%2B;Cloud+Architecture+%26+DevOps" alt="Typing SVG" />
 
 <br/>
 
@@ -16,14 +12,14 @@
   <em>Building systems that don't suck.<br/>Strong bias toward performance, scale, and developer sanity.</em>
 </p>
 
+<br/>
+
 <p align="center">
   <a href="https://linkedin.com/in/anntmishra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/marlspliff"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
   <a href="mailto:anantmishra249@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-18181B?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2&section=header"/>
 
 </div>
 
@@ -191,9 +187,5 @@ I focus on building robust, high-performance applications with clean architectur
 <div align="center">
   
 <sub>Built with ❤️ by Anant Mishra</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2&section=footer"/>
 
 </div>
