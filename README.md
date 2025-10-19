@@ -131,10 +131,10 @@ I focus on building robust, high-performance applications with clean architectur
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=anntmishra&show_icons=true&hide_border=true&bg_color=00000000&title_color=18181b&icon_color=18181b&text_color=3f3f46&hide_title=true&include_all_commits=true&count_private=true" height="165" alt="stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anntmishra&hide_border=true&background=00000000&ring=18181b&fire=18181b&currStreakLabel=18181b&stroke=d4d4d8&currStreakNum=18181b&sideNums=18181b&sideLabels=71717a&dates=71717a" height="165" alt="streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anntmishra&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&hide_title=true&include_all_commits=true&count_private=true" height="165" alt="stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anntmishra&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&stroke=30363d&currStreakNum=58a6ff&sideNums=58a6ff&sideLabels=8b949e&dates=8b949e" height="165" alt="streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anntmishra&layout=compact&hide_border=true&bg_color=00000000&title_color=18181b&text_color=3f3f46&hide_title=true&langs_count=6" alt="languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anntmishra&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_title=true&langs_count=6" alt="languages"/>
 
 </div>
 
@@ -144,7 +144,7 @@ I focus on building robust, high-performance applications with clean architectur
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anntmishra&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anntmishra&theme=algolia&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=2&column=4)
 
 </div>
 
@@ -154,7 +154,7 @@ I focus on building robust, high-performance applications with clean architectur
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anntmishra&bg_color=00000000&color=18181b&line=18181b&point=18181b&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/anntmishra/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anntmishra&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/anntmishra/github-readme-activity-graph)
 
 </div>
 
@@ -164,7 +164,7 @@ I focus on building robust, high-performance applications with clean architectur
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=anntmishra&limit=5&theme=flat&combine_all_yearly_contributions=true&hide_border=true)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=anntmishra&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true)
 
 </div>
 
