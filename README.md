@@ -1,10 +1,12 @@
 <div align="center">
 
-# 👋 Hey, I'm Anant Mishra
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Anant%20Mishra&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20System%20Architect&descAlignY=51&descAlign=50"/>
 
-<img src="https://i.pinimg.com/originals/57/1c/bb/571cbbe946a20afea4bbc69f9e287c03.gif" width="400" alt="Coding GIF"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=45B7D1&center=true&vLines=true&width=435&lines=Full+Stack+Developer;System+Architecture+Enthusiast;Cloud+%26+DevOps+Engineer;Building+Scalable+Systems" alt="Typing SVG" />
 
-### Software Engineer | System Architect | Performance Enthusiast
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Coding GIF"/>
+
+### 🚀 Performance Enthusiast | ☁️ Cloud Architect | 🎯 Problem Solver
 
 *Building systems that don't suck. Strong bias toward performance, scale, and developer sanity.*
 
@@ -138,10 +140,10 @@ const anant = {
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=anntmishra&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anntmishra&theme=radical&hide_border=true" height="170" alt="streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anntmishra&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=45B7D1&icon_color=4ECDC4&text_color=c9d1d9" height="170" alt="stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anntmishra&theme=tokyonight&hide_border=true&background=0d1117&ring=45B7D1&fire=FF6B6B&currStreakLabel=45B7D1" height="170" alt="streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anntmishra&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anntmishra&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=45B7D1&text_color=c9d1d9" alt="languages"/>
 
 </div>
 
@@ -151,7 +153,7 @@ const anant = {
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anntmishra&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anntmishra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
 
 [![Holopin Badges](https://holopin.me/anntmishra)](https://holopin.io/@anntmishra)
 
@@ -173,7 +175,7 @@ const anant = {
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=anntmishra&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=anntmishra&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -183,7 +185,7 @@ const anant = {
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
 
 </div>
 
