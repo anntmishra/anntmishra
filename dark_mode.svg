@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+
+/* Clean Animations */
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+@keyframes subtleGlow {
+  0%, 100% { filter: drop-shadow(0 0 2px #58a6ff); }
+  50% { filter: drop-shadow(0 0 5px #58a6ff); }
+}
+@keyframes fadeSlide {
+  from { opacity: 0; transform: translateX(-10px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+.cursor { animation: blink 1s infinite; }
+.glow { animation: subtleGlow 2s ease-in-out infinite; }
+.fade-slide { animation: fadeSlide 0.8s ease-out; }
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">                                            </tspan>
+<tspan x="15" y="50">   ╔══════════════════════════════════╗     </tspan>
+<tspan x="15" y="70">   ║                                  ║     </tspan>
+<tspan x="15" y="90">   ║    ▄▀█ █▄░█ ▄▀█ █▄░█ ▀█▀        ║     </tspan>
+<tspan x="15" y="110">   ║    █▀█ █░▀█ █▀█ █░▀█ ░█░        ║     </tspan>
+<tspan x="15" y="130">   ║                                  ║     </tspan>
+<tspan x="15" y="150">   ║    Software Developer            ║     </tspan>
+<tspan x="15" y="170">   ║    @anntmishra                   ║     </tspan>
+<tspan x="15" y="190">   ║                                  ║     </tspan>
+<tspan x="15" y="210">   ╚══════════════════════════════════╝     </tspan>
+<tspan x="15" y="230">                                            </tspan>
+<tspan x="15" y="250">                                            </tspan>
+<tspan x="15" y="270">       ┌───────────────────────┐           </tspan>
+<tspan x="15" y="290">       │  </tspan><tspan class="cc">$</tspan><tspan> ./build_cool_stuff   │           </tspan>
+<tspan x="15" y="310">       │                       │           </tspan>
+<tspan x="15" y="330">       │  </tspan><tspan class="addColor">✔</tspan><tspan> compiling dreams   │           </tspan>
+<tspan x="15" y="350">       │  </tspan><tspan class="addColor">✔</tspan><tspan> shipping code      │           </tspan>
+<tspan x="15" y="370">       │  </tspan><tspan class="value">▶</tspan><tspan> debugging life</tspan><tspan class="cursor">▌</tspan><tspan>   │           </tspan>
+<tspan x="15" y="390">       │                       │           </tspan>
+<tspan x="15" y="410">       └───────────────────────┘           </tspan>
+<tspan x="15" y="430">                                            </tspan>
+<tspan x="15" y="450">                                            </tspan>
+<tspan x="15" y="470">                                            </tspan>
+<tspan x="15" y="490">                                            </tspan>
+<tspan x="15" y="510">                                            </tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9" class="fade-slide">
+<tspan x="390" y="30" class="glow">anant@mishra</tspan> -———————————————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">macOS, Linux, iOS</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"></tspan><tspan class="value" id="age_data">20 years, 2 months, 29 days</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">India</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Software Developer</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">VS Code</tspan>
+<tspan x="390" y="150" class="cc">. </tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">TypeScript, Go, C++, Rust</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Frontend</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Tailwind, Node.js</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Backend</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Express, Prisma, Docker</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Databases</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">MongoDB, Postgres, MySQL</tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Cloud</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">AWS, GCP, Supabase</tspan>
+<tspan x="390" y="270" class="cc">. </tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Open Source, Side Projects, Gaming</tspan>
+<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">anntmishra</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">anntmishra</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Twitter</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">marlspliff</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">freakyanantt</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">anantmishra249@gmail.com</tspan>
+<tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">17</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">18</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">0</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................... </tspan><tspan class="value" id="commit_data">291</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ........ </tspan><tspan class="value" id="follower_data">26</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">796,221</tspan> ( <tspan class="addColor" id="loc_add">8,048,617</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"></tspan><tspan class="delColor" id="loc_del">7,252,396</tspan><tspan class="delColor">--</tspan> )
+</text>
+</svg>
